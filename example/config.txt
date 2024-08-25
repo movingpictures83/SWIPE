@@ -1,0 +1,2 @@
+Prefix plugins/SWIPE/example/
+Plugin SWIPE inputfile parameters.txt outputfile output.txt
